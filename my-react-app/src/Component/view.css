@@ -1,0 +1,65 @@
+.viewtable {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 1000px;
+    /*margin: 0 auto;*/
+    background: linear-gradient(to bottom, #FFB, #F2F2FE);
+    color: #020024;
+
+
+}
+
+
+thead {
+    background-color: lightgray;
+}
+
+th, td {
+padding:10px;
+
+}
+
+th {
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: grey;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    text-align: center;
+    font-size: 14px;
+    margin: 4px 2px;
+    width: 60%;
+
+}
+
+button:hover {
+    background-color: gray;
+}
+
+table {
+    border: 1px solid #ccc;
+}
+
+th, td {
+    border-bottom: 1px solid #ccc;
+}
+/* Create a container for the notification */
+.para {
+
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(105, 47, 47, 0.3);
+    text-align: center;
+
+}
+
+

@@ -1,0 +1,19 @@
+.container{
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.container h1{
+    color: black;
+ text-align: center;
+    font-family: "DejaVu Sans";
+    font-size: 35px;
+}
+.home-btn{
+    background-color: black;
+    color: white;
+    padding: 12px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    width:11%;
+}
